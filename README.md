@@ -4,7 +4,7 @@
 Uma calculadora simples e funcional feita com HTML, CSS e JavaScript puro.
 
 ![Screenshot da calculadora](Images/Screenshot_5.png)  
-*(Substitua pela imagem real do seu projeto)*
+
 
 ---
 
@@ -58,20 +58,6 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.
-
----
-
-## 🎯 Próximas melhorias (ideias)
-
-- Adicionar suporte a teclas do teclado (melhorar o controle de entrada).
-- Histórico de cálculos.
-- Animações ao alternar o tema.
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
 
 ---
 
